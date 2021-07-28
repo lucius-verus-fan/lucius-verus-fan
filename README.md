@@ -1,4 +1,4 @@
-## Papers (Mostly Philosophy)
+## Papers (mostly philosophy)
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4163481)
 
 ## Data Science Software

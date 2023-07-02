@@ -1,5 +1,5 @@
 **papers** [finance, modeling, philosophy, metaphysics]: [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4163481) </br>
-**musings** [philosophy, metaphysics, literature]: [Blog](https://nelson-n.github.io/)
+**musings** [philosophy, metaphysics, literature]: [Blog](https://nelson-n.github.io/) </br>
 **open-source 3d printer design**: [Mark 1 Resin 3d Printer](https://nelson-n.github.io/Mark1.github.io/) </br>
 
 </br>
